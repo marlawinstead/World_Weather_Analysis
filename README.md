@@ -7,7 +7,7 @@ The purpose of this project was to assist Jack, the head analyst of PlanMyTrip, 
 
 Deliverable 1
 
-Retreieve Weather Data: For part 1, we gathered data from 2000 coordinates of latitude and longitude. This produced 761 cities from these coordinates. Using the API, we generated latitudes and longitudes, maximum temperature, humidity, cloudiness, wind speed, weather description and country from each of these cities.
+Retrieve Weather Data: For part 1, we gathered data from 2000 coordinates of latitude and longitude. This produced 761 cities from these coordinates. Using the API, we generated latitudes and longitudes, maximum temperature, humidity, cloudiness, wind speed, weather description and country from each of these cities.
 
 Deliverable 2
 
