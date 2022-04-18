@@ -11,7 +11,7 @@ Retrieve Weather Data: For part 1, we gathered data from 2000 coordinates of lat
 
 Deliverable 2
 
-Create a Customer Travel Destinations Map: For part 2, we narrowed down the results to 208 cities by defining a maximum temperature of 90 and a minimum temperature of 75. 186 of these cities were able to provide a hotel name that the customers could use and book for travelling to their destination.
+Create a Customer Travel Destinations Map: For part 2, we narrowed down the results to 208 cities by defining a maximum temperature of 90 and a minimum temperature of 75. 186 of these cities were able to provide a hotel name that the customers could use and book for traveling to their destination.
 
 Devliverable 3
 
